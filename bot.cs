@@ -35,7 +35,7 @@ const int breakBetweenCycleDurationMinSeconds = 60 * 60;
 //	Upper limit of a random additional time for breaking between farming cycles.
 const int breakBetweenCycleDurationRandomAdditionMaxSeconds = 60 * 20;
 
-const int numberOfFarmCyclesToRepeatMin = 1;
+const int numberOfFarmCyclesToRepeatMin = 5;
 
 const int numberOfFarmCyclesToRepeatRandomAdditionMax = 0;
 
